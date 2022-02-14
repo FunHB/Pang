@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Walls
+  - Balls
+  - Weapon
+  - Ladder
+  - ImmunePlayer
+  - Artefacts
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2583286025
+    locked: 0
+  - name: Walls
+    uniqueID: 1242407335
+    locked: 0
+  - name: Weapon
+    uniqueID: 1830596821
+    locked: 0
+  - name: Balls
+    uniqueID: 2973189431
+    locked: 0
+  - name: Player
+    uniqueID: 4021104951
+    locked: 0
+  - name: Artefacts
+    uniqueID: 2846426513
+    locked: 0
