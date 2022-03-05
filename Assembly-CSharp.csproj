@@ -63,7 +63,6 @@
     <Compile Include="Assets\Scripts\Chain.cs" />
     <Compile Include="Assets\Scripts\BallController.cs" />
     <Compile Include="Assets\Scripts\Breakable.cs" />
-    <Compile Include="Assets\Scripts\ArtefactController.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
